@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Sólo Java</string>
+
+    <!-- Hint text for the EditView [CHAR LIMIT=20] -->
+    <string name="hint">Nombre</string>
+
+    <!-- HEADER text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Ingredientes</string>
+
+    <!-- Text for list of toppings [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Crema batida</string>
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Text for quantity of coffee [CHAR LIMIT=20] -->
+    <string name="quantity">Cantidad</string>
+
+    <!-- Text for the order button [CHAR LIMIT=20] -->
+    <string name="order">Ordenar</string>
+
+    <!-- Yes or No text [CHAR LIMIT=10] -->
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+
+    <!-- Subject message for composeEmail method [CHAR LIMIT=50] -->
+    <string name="email_subject">Sólo java café para </string>
+
+    <!-- Name message for order summary [CHAR LIMIT=20] -->
+    <string name="name_message">Nombre: </string>
+
+    <!-- Add Whipped Cream message for order summary [CHAR LIMIT=30] -->
+    <string name="add_whipped_cream">Agregue la crema batida?</string>
+
+    <!-- Add Chocolate message for order summary [CHAR LIMIT=30] -->
+    <string name="add_chocolate">Agregue el chocolate?</string>
+
+    <!-- Order message for order summary [CHAR LIMIT=20] -->
+    <string name="quantity_ordered1">Usted ordenó  </string>
+
+    <!-- Order message for order summary [CHAR LIMIT=20] -->
+    <string name="quantity_ordered2"> taza(s) de café</string>
+
+    <!-- Total Price message for order summary [CHAR LIMIT=20] -->
+    <string name="total_price">Precio total: $</string>
+
+    <!-- Toast message for entering too may values fo no of coffee, when increment button is pressed [CHAR LIMIT=60] -->
+    <string name="increment_toast_msg">¡No puedes pedir más de 100 tazas!</string>
+
+    <!-- Toast message for entering too few values fo no of coffee, when decrement button is pressed  [CHAR LIMIT=60] -->
+    <string name="decrement_toast_msg">" ¡No puedes pedir menos de 1 taza!"</string>
+
+    <!-- Thank You message for order summary [CHAR LIMIT=20] -->
+    <string name="thank_you">¡Gracias!</string>
+
+
+</resources>
+
